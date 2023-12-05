@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+    margin-bottom: 25px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    font-weight: lighter;
+    color: dimgray;
+    margin-bottom: 10px;
+}
+
+.my-name1 {
+    color: #ff3484;
+    font-size: 60px;
+    
+}
+
+section {
+    height: 500px;
+    padding: 20px;
+    margin: 50px;
+}
+
+.first-section {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 12%;
+    padding: 1%;
+
+
+}
+
+.first-section img {
+    width: 110%;
+    margin-left: 10%;
+
+}
+
+.top-banner {
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.button-hire {
+    text-decoration: none;
+    padding: 10px 20px;
+    background: rgb(252, 1, 128);
+    background: linear-gradient(90deg, rgba(252, 1, 128, 1) 0%, rgba(222, 49, 99, 1) 50%, rgba(190, 10, 95, 1) 100%);
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-top: 10px;
+
+}
+
+#for-padding {
+    margin: 35px;
+}
+
+.middle-banner {
+    margin: 120px;
+    background-image: url(image/biography-bg.png);
+    background-position: -50px 30px;
+
+
+}
+
+#for-padding1 {
+    margin: 5px;
+    margin-left: 35px;
+
+}
+
+
+
+.middle-banner img {
+    width: 110%;
+    margin-left: 10%;
+}
+
+.latest-work {
+    width: 25%;
+    float: left;
+    
+    margin: 4%;
+    
+
+}
+
+.latest-work img {
+    width: 100%;
+    float: left;
+    
+    margin: 10%;
+}
+
+.latest-banner {
+    margin-top: 400px;
+    text-align: center;
+}
+
+#my-work {
+    font-size: 30px;
+}
+.last-part{
+    text-align: center;
+    margin: 40px;
+}
+
+#email-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 130px;
+    width: 30%; 
+    background-color: #ff3484; 
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 35%;
+    
+  }
+  
+  #mail-me {
+    text-align: center;
+    margin: 5px;
+    color: white; 
+  }
+  
+
+  footer {
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+  }
