@@ -1,4 +1,0 @@
-{
-    "markdown.validate.referenceLinks.enabled": "warning",
-    "markdown.validate.fileLinks.markdownFragmentLinks": "warning"
-}
