@@ -1,13 +1,15 @@
-# # Portfolio Project
+Absolutely! Here's an updated version with your name bolded and colored:
 
-This portfolio was created during my journey of learning HTML and CSS. As a part of my learning process, I decided to showcase my progress by developing this portfolio to highlight my skills, projects, and experiences. Feel free to explore and witness the evolution of my web development abilities. Your feedback and suggestions are always welcome!
+# Portfolio Project
+
+This portfolio was created during my journey of learning HTML and CSS by **Minhajul Islam**. As a part of my learning process, I decided to showcase my progress by developing this portfolio to highlight my skills, projects, and experiences. Feel free to explore and witness the evolution of my web development abilities. Your feedback and suggestions are always welcome!
 
 ## Technologies Used
 - HTML
 - CSS
 
 ## About Me
-I am passionate about web development and continuously strive to enhance my skills in creating visually appealing and functional websites. This portfolio reflects my commitment to learning and showcases some of the projects I have worked on during my HTML and CSS learning journey.
+I am **Minhajul Islam**, and I am passionate about web development. I continuously strive to enhance my skills in creating visually appealing and functional websites. This portfolio reflects my commitment to learning and showcases some of the projects I have worked on during my HTML and CSS learning journey.
 
 ## Acknowledgments
 Special thanks to the online learning resources, tutorials, and communities that have contributed to my growth as a web developer.
