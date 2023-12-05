@@ -1,5 +1,3 @@
-Absolutely! Here's an updated version with your name bolded and colored:
-
 # Portfolio Project
 
 This portfolio was created during my journey of learning HTML and CSS by **Minhajul Islam**. As a part of my learning process, I decided to showcase my progress by developing this portfolio to highlight my skills, projects, and experiences. Feel free to explore and witness the evolution of my web development abilities. Your feedback and suggestions are always welcome!
