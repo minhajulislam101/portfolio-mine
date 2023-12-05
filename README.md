@@ -14,7 +14,7 @@ Special thanks to the online learning resources, tutorials, and communities that
 
 Feel free to reach out if you have any questions or if you'd like to connect. Happy coding! 🚀
 
-Output : 
+Preview : 
 ![image](https://github.com/minhajulislam101/portfolio-mine/assets/62748402/6d36f5f4-125e-430a-80bb-1b6f0d41d6b5)
 ![image](https://github.com/minhajulislam101/portfolio-mine/assets/62748402/394c474d-dc5f-49b5-92ae-08286e216d81)
 ![image](https://github.com/minhajulislam101/portfolio-mine/assets/62748402/c4cc5899-e7b4-4b63-b591-c8f4880b6eb9)
